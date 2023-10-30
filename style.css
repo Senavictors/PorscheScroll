@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: #000000;
-  color: #fff;
+  background-color: #fff;
+  color: #000000;
   margin: 50px;
 }
 
@@ -25,7 +25,9 @@ section{
   align-items: center;
   min-height: 100vh;
 }
-
+.times-new-roman {
+  font-family: "Times New Roman", Times, serif;
+}
 .porscheLogo {
   height: 100px;
 }
