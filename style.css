@@ -26,6 +26,10 @@ section{
   min-height: 100vh;
 }
 
+.porscheLogo {
+  height: 100px;
+}
+
 .hidden {
   opacity: 0;
   filter: blur(15px);
@@ -46,7 +50,7 @@ section{
   height: 100%;
 }
 
-.avatar {
+.FotoSecundaria {
     height: 150px;
     background-color: #fff;
     border-radius: 10px;
